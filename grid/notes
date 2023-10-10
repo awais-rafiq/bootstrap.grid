@@ -1,0 +1,45 @@
+bootstrap:
+it is a framework
+
+
+
+large:laptop computer
+medium:monitor screen
+small:tablets
+xtra small:mobile
+
+advanatges:
+save lot oftime
+responsive features
+consist design mean reuse
+easy touse
+compatiable with browsers
+open source
+
+
+bootstrap js component
+ 
+
+ diff 3 and 4:
+ flexbox layout
+ new componenets
+ faster
+ most responsive
+
+ suportall browsers
+
+
+3 booystrap css classes
+row
+col
+container
+
+.container
+
+
+                                 :conatiner  width
+exutra large laptop 1200 and more 1140px   
+large   >=992              960
+medium  >=768               720
+small   >=576               540
+extra small:  <576          auto
